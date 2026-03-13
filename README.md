@@ -45,7 +45,6 @@
 * **[4-Stage Pipelined Processor](#)**: Architected a custom processor core in Verilog implementing instruction fetch, decode, execute, and write-back stages with custom hazard detection and data forwarding logic to eliminate pipeline stalls. Synthesized using Synopsys DC.
 * **[32-Bit ALU with Zero-Flag Logic](#)**: Designed and verified a 32-bit ALU supporting complex arithmetic/logical ops. Validated via exhaustive ModelSim testbenches.
 
-*(Note: Click the repos above for detailed architecture block diagrams, RTL code, and simulation waveforms).*
 
 ---
 

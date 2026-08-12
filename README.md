@@ -47,7 +47,7 @@
 
 
 ---
-
+![snake gif](https://github.com/Nikunj2608/Nikunj2608/blob/output/github-snake-dark.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikunj2608&show_icons=true&locale=en&theme=radical" alt="nikunj2608" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj2608&show_icons=true&locale=en&layout=compact&theme=radical" alt="nikunj2608" height="150" />

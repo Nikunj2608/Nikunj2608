@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nikunj Bhatt</h1>
+<p align="center">
+  <img src="./assets/greeting.svg" alt="Hi, I'm Nikunj Bhatt" />
+</p>
 
 <p align="center">
   <img src="./assets/titlesnap.svg" alt="RTL Design & Verification Engineer" />

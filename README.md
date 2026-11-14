@@ -86,3 +86,9 @@ Bridging digital microarchitecture and physical silicon—from writing cycle-acc
   <img src="https://github-readme-stats.vercel.app/api?username=nikunj2608&show_icons=true&locale=en&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="GitHub Stats" height="155" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj2608&show_icons=true&locale=en&layout=compact&title_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" height="155" />
 </p>
+
+---
+
+<p align="center">
+  <img src="./assets/ironman.png" width="520" alt="Tony Stark Donut Break" /><br />
+</p

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=760&lines=RTL+Design+%26+Verification+Engineer;Architecting+Custom+Silicon+%7C+RTL-to-GDSII+(Sky130);SystemVerilog+%E2%80%A2+UVM+%E2%80%A2+AMBA+AXI4+%E2%80%A2+Computer+Architecture;Off-Clock%3A+Backtesting+Strategies+%26+Trading+Markets" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=RTL+Design+%26+Verification+Engineer;Architecting+Custom+Silicon+%7C+RTL-to-GDSII+(Sky130);SystemVerilog+%E2%80%A2+UVM+%E2%80%A2+AMBA+AXI4+%E2%80%A2+Computer+Architecture;Off-Clock%3A+Backtesting+Strategies+%26+Trading+Markets" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,11 +26,13 @@
 ### ⚡ Silicon & Verification Focus
 Bridging digital microarchitecture and physical silicon—from writing cycle-accurate RTL and constrained-random testbenches to closing timing at the gate level.
 
-- 🔭 **Currently Building:** Constrained-Random Verification Environment for a 32-bit ALU & INT8 Systolic Array SoC integration.
-- 🌱 **Deep Diving Into:** **UVM Methodologies, Functional Coverage, and AMBA AXI4 Protocols.**
-- 🧩 **Hardware Mindset:** Designing deterministic datapaths and breaking them with randomized edge-case stimulus.
-- 📈 **Side Quest:** Yeah, sometimes I trade—reading market structure, playing the probabilities, and backtesting ideas in Python.
-- 📫 **Collaborate / Reach Out:** `nikunjbhatt244@gmail.com`
+<p>
+  <img src="https://api.iconify.design/material-symbols/construction.svg?color=%2322D3EE" width="18" height="18" alt="Building" /> &nbsp;<b>Currently Building:</b> Constrained-Random Verification Environment for a 32-bit ALU & INT8 Systolic Array SoC integration.<br/>
+  <img src="./assets/diving.svg" width="18" height="18" alt="Deep Diving" /> &nbsp;<b>Deep Diving Into:</b> <b>UVM Methodologies, Functional Coverage, and AMBA AXI4 Protocols.</b><br/>
+  <img src="https://api.iconify.design/fa6-solid/microchip.svg?color=%2322D3EE" width="18" height="18" alt="Hardware Mindset" /> &nbsp;<b>Hardware Mindset:</b> Designing deterministic datapaths and breaking them with randomized edge-case stimulus.<br/>
+  <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%2322D3EE" width="18" height="18" alt="Trading" /> &nbsp;<b>Side Quest:</b> Yeah, sometimes I trade—reading market structure, playing the probabilities, and backtesting ideas in Python.<br/>
+  <img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%2322D3EE" width="18" height="18" alt="Email" /> &nbsp;<b>Collaborate / Reach Out:</b> <code>nikunjbhatt244@gmail.com</code>
+</p>
 
 <br clear="both" />
 
@@ -54,7 +56,7 @@ Bridging digital microarchitecture and physical silicon—from writing cycle-acc
   <img src="https://img.shields.io/badge/SystemVerilog-0052CC?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog"/>
   <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/UVM-FF4B4B?style=for-the-badge&logoColor=white" alt="UVM"/>
+  <img src="https://img.shields.io/badge/UVM-0284C7?style=for-the-badge&logoColor=white" alt="UVM"/>
 </p>
 
 **ASIC Flow, Simulation & FPGA**
@@ -64,7 +66,7 @@ Bridging digital microarchitecture and physical silicon—from writing cycle-acc
   <img src="https://img.shields.io/badge/Verilator-2563EB?style=for-the-badge&logoColor=white" alt="Verilator"/>
   <img src="https://img.shields.io/badge/Synopsys_DC-5B2071?style=for-the-badge&logoColor=white" alt="Synopsys DC"/>
   <img src="https://img.shields.io/badge/ModelSim-D90429?style=for-the-badge&logoColor=white" alt="ModelSim"/>
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-E3008C?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-0891B2?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
 </p>
 
 **Golden Reference Modeling & Systems**
@@ -81,6 +83,6 @@ Bridging digital microarchitecture and physical silicon—from writing cycle-acc
 ![snake gif](https://github.com/Nikunj2608/Nikunj2608/blob/output/github-snake-dark.svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunj2608&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj2608&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikunj2608&show_icons=true&locale=en&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="GitHub Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj2608&show_icons=true&locale=en&layout=compact&title_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" height="155" />
 </p>

@@ -13,6 +13,15 @@
 
 ---
 
+<table align="right">
+  <tr>
+    <td align="center">
+      <img src="https://media1.tenor.com/m/KRGfQXuQqbYAAAAC/jane.gif" width="240" alt="Patrick Jane" /><br />
+      <sub><i>"There's no such thing as psychics—just paying attention to the details."</i></sub>
+    </td>
+  </tr>
+</table>
+
 ### 🚀 What I'm Up To
 - 🔭 **Currently Building:** A Constrained-Random Verification Testbench for a 32-bit ALU.
 - 🌱 **Currently Learning:** **SystemVerilog, UVM, and AMBA AXI4 Protocols.**
@@ -38,13 +47,14 @@
   <img src="https://img.shields.io/badge/Xilinx_Vivado-E3008C?style=flat-square&logo=xilinx&logoColor=white" alt="Vivado"/>
 </p>
 
+<br clear="both" />
+
 ---
 
 ### 🔬 Featured Silicon Projects
 
-* **[4-Stage Pipelined Processor](#)**: Architected a custom processor core in Verilog implementing instruction fetch, decode, execute, and write-back stages with custom hazard detection and data forwarding logic to eliminate pipeline stalls. Synthesized using Synopsys DC.
-* **[32-Bit ALU with Zero-Flag Logic](#)**: Designed and verified a 32-bit ALU supporting complex arithmetic/logical ops. Validated via exhaustive ModelSim testbenches.
-
+- **[4-Stage Pipelined Processor](#)**: Architected a custom processor core in Verilog implementing instruction fetch, decode, execute, and write-back stages with custom hazard detection and data forwarding logic to eliminate pipeline stalls. Synthesized using Synopsys DC.
+- **[32-Bit ALU with Zero-Flag Logic](#)**: Designed and verified a 32-bit ALU supporting complex arithmetic/logical ops. Validated via exhaustive ModelSim testbenches.
 
 ---
 ![snake gif](https://github.com/Nikunj2608/Nikunj2608/blob/output/github-snake-dark.svg)

@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikunj Bhatt</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=RTL+Design+%26+Verification+Engineer;Architecting+Custom+Silicon+%7C+RTL-to-GDSII+(Sky130);SystemVerilog+%E2%80%A2+UVM+%E2%80%A2+AMBA+AXI4+%E2%80%A2+Computer+Architecture;Off-Clock%3A+Backtesting+Strategies+%26+Trading+Markets" alt="Typing SVG" />
-  </a>
+  <img src="./assets/title-snap.svg" alt="RTL Design & Verification Engineer" />
 </p>
 
 <p align="center"> 

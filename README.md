@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikunj Bhatt</h1>
 
 <p align="center">
-  <img src="./assets/title-snap.svg" alt="RTL Design & Verification Engineer" />
+  <img src="./assets/titlesnap.svg" alt="RTL Design & Verification Engineer" />
 </p>
 
 <p align="center"> 

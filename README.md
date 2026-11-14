@@ -24,13 +24,13 @@
 </table>
 
 ### ⚡ Silicon & Verification Focus
-Bridging digital microarchitecture and physical silicon—from writing cycle-accurate RTL and constrained-random testbenches to closing timing at the gate level.
+Bridging digital microarchitecture and physical silicon from writing cycle-accurate RTL and constrained-random testbenches to closing timing at the gate level.
 
 <p>
   <img src="https://api.iconify.design/material-symbols/construction.svg?color=%2322D3EE" width="18" height="18" alt="Building" /> &nbsp;<b>Currently Building:</b> Constrained-Random Verification Environment for a 32-bit ALU & INT8 Systolic Array SoC integration.<br/>
   <img src="./assets/diving.svg" width="18" height="18" alt="Deep Diving" /> &nbsp;<b>Deep Diving Into:</b> <b>UVM Methodologies, Functional Coverage, and AMBA AXI4 Protocols.</b><br/>
   <img src="https://api.iconify.design/fa6-solid/microchip.svg?color=%2322D3EE" width="18" height="18" alt="Hardware Mindset" /> &nbsp;<b>Hardware Mindset:</b> Designing deterministic datapaths and breaking them with randomized edge-case stimulus.<br/>
-  <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%2322D3EE" width="18" height="18" alt="Trading" /> &nbsp;<b>Side Quest:</b> Yeah, sometimes I trade—reading market structure, playing the probabilities, and backtesting ideas in Python.<br/>
+  <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%2322D3EE" width="18" height="18" alt="Trading" /> &nbsp;<b>Side Quest:</b> Yeah, sometimes I trade, reading market structure, playing the probabilities, and backtesting ideas in Python.<br/>
   <img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%2322D3EE" width="18" height="18" alt="Email" /> &nbsp;<b>Collaborate / Reach Out:</b> <code>nikunjbhatt244@gmail.com</code>
 </p>
 

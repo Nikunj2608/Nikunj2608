@@ -1,0 +1,55 @@
+<svg width="780" height="76" viewBox="0 0 780 76" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="snap0" x="-15%" y="-60%" width="140%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.085" numOctaves="3" seed="11" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="0" xChannelSelector="R" yChannelSelector="G">
+        <animate attributeName="scale" values="45; 0; 0; 150; 0; 0" keyTimes="0; 0.025; 0.185; 0.248; 0.250; 1" dur="16s" repeatCount="indefinite" />
+      </feDisplacementMap>
+    </filter>
+
+    <filter id="snap1" x="-15%" y="-60%" width="140%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.085" numOctaves="3" seed="24" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="0" xChannelSelector="R" yChannelSelector="G">
+        <animate attributeName="scale" values="0; 45; 0; 0; 150; 0; 0" keyTimes="0; 0.250; 0.275; 0.435; 0.498; 0.500; 1" dur="16s" repeatCount="indefinite" />
+      </feDisplacementMap>
+    </filter>
+
+    <filter id="snap2" x="-15%" y="-60%" width="140%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.085" numOctaves="3" seed="37" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="0" xChannelSelector="R" yChannelSelector="G">
+        <animate attributeName="scale" values="0; 45; 0; 0; 150; 0; 0" keyTimes="0; 0.500; 0.525; 0.685; 0.748; 0.750; 1" dur="16s" repeatCount="indefinite" />
+      </feDisplacementMap>
+    </filter>
+
+    <filter id="snap3" x="-15%" y="-60%" width="140%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.085" numOctaves="3" seed="52" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="0" xChannelSelector="R" yChannelSelector="G">
+        <animate attributeName="scale" values="0; 45; 0; 0; 150; 0" keyTimes="0; 0.750; 0.775; 0.935; 0.998; 1" dur="16s" repeatCount="indefinite" />
+      </feDisplacementMap>
+    </filter>
+  </defs>
+
+  <g filter="url(#snap0)" opacity="0">
+    <animate attributeName="opacity" values="0; 1; 1; 0; 0; 0" keyTimes="0; 0.025; 0.185; 0.248; 0.250; 1" dur="16s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="-12,4; 0,0; 0,0; 50,-14; 0,0; 0,0" keyTimes="0; 0.025; 0.185; 0.248; 0.250; 1" dur="16s" repeatCount="indefinite" />
+    <text x="50%" y="44" text-anchor="middle" fill="#22D3EE" font-family="JetBrains Mono, Fira Code, monospace" font-size="20" font-weight="600">RTL Design / Verification Engineer</text>
+  </g>
+
+  <g filter="url(#snap1)" opacity="0">
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.250; 0.275; 0.435; 0.498; 0.500; 1" dur="16s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0,0; -12,4; 0,0; 0,0; 50,-14; 0,0; 0,0" keyTimes="0; 0.250; 0.275; 0.435; 0.498; 0.500; 1" dur="16s" repeatCount="indefinite" />
+    <text x="50%" y="44" text-anchor="middle" fill="#22D3EE" font-family="JetBrains Mono, Fira Code, monospace" font-size="20" font-weight="600">Architecting Custom Silicon | RTL-to-GDSII (Sky130)</text>
+  </g>
+
+  <g filter="url(#snap2)" opacity="0">
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.500; 0.525; 0.685; 0.748; 0.750; 1" dur="16s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0,0; -12,4; 0,0; 0,0; 50,-14; 0,0; 0,0" keyTimes="0; 0.500; 0.525; 0.685; 0.748; 0.750; 1" dur="16s" repeatCount="indefinite" />
+    <text x="50%" y="44" text-anchor="middle" fill="#22D3EE" font-family="JetBrains Mono, Fira Code, monospace" font-size="20" font-weight="600">SystemVerilog • UVM • AMBA AXI4 • Computer Architecture</text>
+  </g>
+
+  <g filter="url(#snap3)" opacity="0">
+    <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.750; 0.775; 0.935; 0.998; 1" dur="16s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0,0; -12,4; 0,0; 0,0; 50,-14; 0,0" keyTimes="0; 0.750; 0.775; 0.935; 0.998; 1" dur="16s" repeatCount="indefinite" />
+    <text x="50%" y="44" text-anchor="middle" fill="#22D3EE" font-family="JetBrains Mono, Fira Code, monospace" font-size="20" font-weight="600">Off-Clock: Backtesting Strategies • Trading Markets</text>
+  </g>
+</svg>

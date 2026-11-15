@@ -120,11 +120,7 @@ Bridging digital microarchitecture and physical silicon from writing cycle-accur
 
 ![snake gif](https://github.com/Nikunj2608/Nikunj2608/blob/output/github-snake-dark.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunj2608&show_icons=true&locale=en&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj2608&show_icons=true&locale=en&layout=compact&title_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" height="155" />
-</p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nikunj2608&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=Nikunj2608&include_all_commits=true&theme=vue)
 ---
 
 <p align="center">

@@ -120,7 +120,10 @@ Bridging digital microarchitecture and physical silicon from writing cycle-accur
 
 ![snake gif](https://github.com/Nikunj2608/Nikunj2608/blob/output/github-snake-dark.svg)
 
+<p align="center">
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nikunj2608&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=Nikunj2608&include_all_commits=true&theme=vue)
+</p>
+
 ---
 
 <p align="center">

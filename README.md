@@ -49,6 +49,44 @@ Bridging digital microarchitecture and physical silicon from writing cycle-accur
 
 ---
 
+
+## ⚙️ Technical Skills
+
+**HDL & Digital Design**
+
+`Verilog` `SystemVerilog` `VHDL` `RTL Design` `Digital Logic Design` `FSM` `Sequential Logic` `Pipeline Design` `Memory-Mapped IP`
+
+**Computer Architecture & AI Accelerators**
+
+`RISC-V Architecture` `Processor Microarchitecture` `Systolic Arrays` `Weight-Stationary Dataflow` `INT8 MAC` `Softmax` `Quantization` `Hardware Accelerators` `Neuromorphic Computing` `Spiking Neural Networks` `ReRAM` `In-Memory Computing`
+
+**ASIC & Physical Design**
+
+`Yosys` `Synopsys Design Compiler` `AMD Vivado` `SKY130 PDK` `RTL Synthesis` `Technology Mapping` `Standard-Cell Libraries` `Macro Placement` `PPA Optimization` `OpenLane` `DFT Fundamentals`
+
+**Design Verification**
+
+`Cocotb` `Verilator` `Icarus Verilog` `ModelSim` `GTKWave` `Testbench Development` `Directed Testing` `Constrained-Random Verification` `Python Reference Models` `Scoreboards` `Functional Coverage` `SVA Fundamentals`
+
+**Embedded Systems & Firmware**
+
+`Embedded C/C++` `STM32` `ARM` `AVR` `ESP32` `Arduino` `Raspberry Pi` `FreeRTOS` `RTOS` `Firmware Development` `Sensor Integration` `ROS` `Hardware-Software Integration`
+
+**Programming & Scientific Computing**
+
+`C` `C++` `Python` `Rust` `MATLAB` `NumPy` `SciPy` `OOP` `Data Structures & Algorithms`
+
+**AI, Machine Learning & Computer Vision**
+
+`PyTorch` `TensorFlow` `YOLO` `OpenCV` `Scikit-learn` `Edge AI` `Computer Vision` `Flask`
+
+**EDA, PCB & Development Tools**
+
+`Synopsys` `Cadence Virtuoso` `Yosys` `OpenLane` `KiCad` `EasyEDA` `Git` `GitHub` `Linux` `WSL` `Ciel`
+
+---
+
+
 ### 🛠️ Silicon Stack & EDA Toolchain
 
 **HDL & Verification**

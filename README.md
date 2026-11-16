@@ -86,6 +86,12 @@ Bridging digital microarchitecture and physical silicon from writing cycle-accur
 
 ---
 
+<p align="center">
+  <img src="assets/alex-karp.gif" width="520" alt="Alex KARP" />
+</p>
+
+---
+
 
 ### 🛠️ Silicon Stack & EDA Toolchain
 

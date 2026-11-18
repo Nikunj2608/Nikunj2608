@@ -143,3 +143,7 @@ Bridging digital microarchitecture and physical silicon from writing cycle-accur
 <p align="center">
   <img src="./assets/ironman.png" width="520" alt="Tony Stark Donut Break" /><br />
 </p
+<p align="center">
+  <img src="./assets/maxi.jpg" width="520" alt="Interlagos P21" /><br />
+  <sub><i>"Simply Lovely"</i></sub>
+</p
